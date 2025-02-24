@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       <h1>Hello Nagurbabu </h1>
+      <h2>update</h2>
       <Data/>
     </div>  
   );
